@@ -19,7 +19,7 @@ Estudo Ciências e Tecnologia com ênfase em Tecnologia da Computação na Unive
 <div align="center">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,react,django,docker,git,postgres,html,css" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,django,docker,git,postgres,html,css" alt="Tecnologias" />
 </p>
 
 <br><br>
