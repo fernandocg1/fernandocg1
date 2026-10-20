@@ -9,7 +9,7 @@
 
 ## Sobre mim
 
-Estudo Ciências e Tecnologia com ênfase em Tecnologia da Computação na Universidade Federal do Rio Grande do Norte, desenvolvo aplicações e automações no campo da IA.
+Estudo Ciências e Tecnologia com ênfase em Tecnologia da Computação na Universidade Federal do Rio Grande do Norte, desenvolvo aplicações e automações no campo da IA. (tenho um grande apreço por C++).:)
 
 - **Experiência:** desenvolvimento de software desde 2024 em projetos universitários
 - **Projeto atual:** integrante do projeto voluntário Dataviewer na UFRN.
